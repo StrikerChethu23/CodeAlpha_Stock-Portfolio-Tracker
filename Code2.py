@@ -1,10 +1,4 @@
-"""
-STOCK PORTFOLIO TRACKER
-A simple stock investment tracking system with file export
-Author: [Your Name]
-Date: [Current Date]
-Internship: CodeAlpha - Python Programming
-"""
+
 
 import csv
 import os
